@@ -1,0 +1,28 @@
+﻿@model T3_Naranjo_Gianino.Models.Libro
+
+<h2>Eliminar Libro</h2>
+
+<form method="post" asp-action="Eliminar">
+
+    <input asp-for="Id" hidden />
+
+    <div class="mb-3">
+        <label>Título</label>
+        <input asp-for="Titulo" class="form-control" disabled />
+    </div>
+
+    <div class="mb-3">
+        <label>Autor</label>
+        <input asp-for="Autor" class="form-control" disabled />
+    </div>
+
+    <div class="mb-3">
+        <label>Tema</label>
+        <input asp-for="Tema" class="form-control" disabled />
+    </div>
+
+    <button type="submit" class="btn btn-danger">
+        Eliminar
+    </button>
+
+</form>
