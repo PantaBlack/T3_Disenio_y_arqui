@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\images\\arqui.jpg",
+      "PackagePath": "staticwebassets\\images\\arqui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\images\\dise.jpg",
+      "PackagePath": "staticwebassets\\images\\dise.jpg"
+    },
+    {
       "Id": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

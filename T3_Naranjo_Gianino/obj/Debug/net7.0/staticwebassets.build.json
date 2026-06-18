@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Kp1HUWGR+/KHO3Q6alhn/rifFfwNnFUxKYWNCXRCA4E=",
+  "Hash": "MPXGZzMAG5HYkDPlKypdazGJ/96xWproe5ndK+jllgg=",
   "Source": "T3_Naranjo_Gianino",
   "BasePath": "_content/T3_Naranjo_Gianino",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\images\\arqui.jpg",
+      "SourceId": "T3_Naranjo_Gianino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\",
+      "BasePath": "_content/T3_Naranjo_Gianino",
+      "RelativePath": "images/arqui.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\arqui.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\images\\dise.jpg",
+      "SourceId": "T3_Naranjo_Gianino",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\",
+      "BasePath": "_content/T3_Naranjo_Gianino",
+      "RelativePath": "images/dise.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dise.jpg"
     },
     {
       "Identity": "C:\\Users\\upn_i\\Desktop\\T3Disenio\\T3_Naranjo_Gianino\\T3_Naranjo_Gianino\\wwwroot\\js\\site.js",

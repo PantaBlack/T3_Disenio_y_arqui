@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\upn_i\Desktop\T3Disenio\T3_Naranjo_Gianino\T3_Naranjo_Gianino
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/upn_i/Desktop/T3Disenio/T3_Naranjo_Gianino/T3_Naranjo_Gianino/Views/Arquitectura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJxdWl0ZWN0dXJhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/upn_i/Desktop/T3Disenio/T3_Naranjo_Gianino/T3_Naranjo_Gianino/Views/Diseno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzZW5vXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/upn_i/Desktop/T3Disenio/T3_Naranjo_Gianino/T3_Naranjo_Gianino/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
