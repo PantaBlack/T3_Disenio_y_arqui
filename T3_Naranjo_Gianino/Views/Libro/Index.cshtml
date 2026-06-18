@@ -1,0 +1,61 @@
+﻿@model IEnumerable<T3_Naranjo_Gianino.Models.Libro>
+
+<h2>Lista de Libros</h2>
+
+<a asp-action="Crear" class="btn btn-primary">
+    Nuevo Libro
+</a>
+
+<table class="table table-bordered mt-3">
+
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Tema</th>
+            <th>Editorial</th>
+            <th>Año</th>
+            <th>Páginas</th>
+            <th>Categoría</th>
+            <th>Material</th>
+            <th>Copias</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.Titulo</td>
+                <td>@item.Autor</td>
+                <td>@item.Tema</td>
+                <td>@item.Editorial</td>
+                <td>@item.AnioPublicacion</td>
+                <td>@item.Paginas</td>
+                <td>@item.Categoria</td>
+                <td>@item.Material</td>
+                <td>@item.Copias</td>
+
+                <td>
+                    <a asp-action="Editar"
+                       asp-route-id="@item.Id"
+                       class="btn btn-warning">
+                        Editar
+                    </a>
+
+                    <a asp-action="Eliminar"
+                       asp-route-id="@item.Id"
+                       class="btn btn-danger">
+                        Eliminar
+                    </a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
